@@ -3,7 +3,7 @@
 ## 一、下载安装
 
 ### 1. 下载地址
-[https://www.telerik.com/fiddler/fiddler-classic](https://telerik-fiddler.s3.amazonaws.com/fiddler/FiddlerSetup.exe)
+https://telerik-fiddler.s3.amazonaws.com/fiddler/FiddlerSetup.exe
 
 点击 **Download for Windows**，下载免费版
 
